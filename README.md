@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashwanth73
 - 👀 I’m interested in developing Android and Web Applications
-- 🌱 I’m currently learning PHP and Tailwind CSS
+- 🌱 I’m currently learning Native Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 tyashwanthkumar48@gmail.com
 

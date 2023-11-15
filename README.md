@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashwanth73
 - 👀 I’m interested in developing Android and Web Applications
-- 🌱 I’m currently studying B.Tech 2nd Year
+- 🌱 I’m currently studying B.Tech 3rd Year
 - 💞️ I’m looking to collaborate on ...
 - 📫 tyashwanthkumar48@gmail.com
 
